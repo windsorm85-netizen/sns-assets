@@ -1,0 +1,24 @@
+{
+  "id": "temp",
+  "title": "점심 먹고 나른할 때 챙기는 오후 습관 4가지",
+  "topic_type": "health",
+  "source_note": "미국안과학회·미국검안협회 20-20-20 rule (https://www.aoa.org/healthy-eyes/eye-and-vision-conditions/computer-vision-syndrome); CDC Preventing Chronic Disease, 30분마다 서서 움직이기 연구 (https://www.cdc.gov/pcd/issues/2014/13_0318.htm); NIH PubMed Central, 식후 걷기와 복부 팽만감 완화 무작위대조군 연구 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8035544/); 질병관리청 국가건강정보포털 '일자목(거북목)증후군' (https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5972)",
+  "pattern_note": "공감형 첫줄(오후 나른함) + 전문가 습관 TOP형 번호 리스트4 + 질문 마무리 — '의사가 알려주는 습관 TOP5' 류 쇼츠에서 확인한 상황공감 훅과 리스트 포맷 적용",
+  "card": {
+    "title1": "점심 먹고 나른할 때",
+    "title2": "오후 활력 챙기기",
+    "items": [
+      "20분마다 **20초** 눈 쉬기",
+      "앉은 지 **30분**되면 일어나기",
+      "식후 **10분** 가볍게 걷기",
+      "1시간마다 목 스트레칭"
+    ]
+  },
+  "threads": {
+    "posts": [
+      "점심 먹고 나면 왜 그렇게 눈은 감기고 몸은 늘어지지? 사무직이면 다 공감할걸.\n\n1. 20분마다 20초는 먼 곳 보기 – 화면만 보면 눈 피로가 확 쌓이거든\n2. 앉은 지 30분 넘으면 잠깐 일어나기 – 계속 앉아있는 것 자체가 몸엔 안 좋대\n3. 식후엔 10분 정도 가볍게 걷기 – 속도 편해지고 나른함도 좀 가시더라\n4. 1시간마다 목 스트레칭하기 – 거북목 되면 나중에 더 고생함\n\n미국안과학회·CDC·국립보건원 자료 기준이야. 저녁까지 축 처지지 말고 하나씩 챙겨봐. 너는 오후에 뭐로 버텨?"
+    ]
+  },
+  "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3BBhxCCPUNC4W1gF9JkOzdYioOu/hf_20260917_210950_4f990947-2029-4d9a-9494-5f70563f20bb.png",
+  "image_source": "Higgsfield AI 생성"
+}

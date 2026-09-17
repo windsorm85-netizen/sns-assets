@@ -1,0 +1,24 @@
+{
+  "id": "temp",
+  "title": "밤에 뒤척일 때 챙기는 꿀잠 습관 4가지",
+  "topic_type": "health",
+  "source_note": "CDC 'About Sleep' 수면 위생 권고 (취침시간 일관성, 화면 사용, 카페인, https://www.cdc.gov/sleep/about/index.html); CDC NIOSH 수면 환경 가이드, 침실 적정온도 65~68°F(약 18~20도) (https://www.cdc.gov/niosh/work-hour-training-for-nurses/longhours/mod6/03.html)",
+  "pattern_note": "저녁 시간대 공감형 훅(뒤척임) + 저장 유도형 번호 리스트4 + 질문 마무리 — '1분 건강상식' 쇼츠류의 짧고 실천 가능한 리스트 구성과 스레드 인기글의 질문형 엔딩 패턴 적용",
+  "card": {
+    "title1": "밤에 뒤척이기만 할 때",
+    "title2": "꿀잠 자는 습관 4가지",
+    "items": [
+      "잠들기 **30분 전** 화면 끄기",
+      "매일 같은 시간 취침",
+      "오후엔 카페인 줄이기",
+      "침실 **18~20도**로 서늘하게"
+    ]
+  },
+  "threads": {
+    "posts": [
+      "누워도 잠이 안 오고 자꾸 뒤척인다면 낮 습관보다 저녁 습관부터 봐야 해.\n\n1. 잠들기 30분 전엔 화면 끄기 – 계속 보고 있으면 뇌가 아직 낮인 줄 알거든\n2. 매일 같은 시간에 자고 일어나기 – 리듬이 흐트러지면 잠도 얕아져\n3. 오후엔 카페인 줄이기 – 늦게 마신 커피가 밤까지 남아있대\n4. 침실은 18~20도로 서늘하게 – 너무 덥거나 추우면 계속 깨게 돼\n\nCDC(미국 질병통제예방센터) 수면 위생 자료 기준이야. 며칠째 계속 못 자면 병원 가보는 것도 방법이고. 오늘 밤은 폰 내려놓고 일찍 누워봐. 너는 뭐 때문에 제일 못 자?"
+    ]
+  },
+  "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3BBhxCCPUNC4W1gF9JkOzdYioOu/hf_20260917_210951_5436902a-bc8f-4b51-a2e5-6acb0302fb43.png",
+  "image_source": "Higgsfield AI 생성"
+}

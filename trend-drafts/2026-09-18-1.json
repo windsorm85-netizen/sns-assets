@@ -1,0 +1,24 @@
+{
+  "id": "temp",
+  "title": "일교차 심한 요즘 챙길 아침 습관 4가지",
+  "topic_type": "health",
+  "source_note": "Mayo Clinic (실내 습도 30~50% 권장, https://www.mayoclinic.org/diseases-conditions/common-cold/in-depth/humidifiers/art-20048021); 국민건강보험공단 건강iN 9월호 '환절기 건강, 이렇게 챙기자' (겉옷·수분·손발씻기, https://www.nhis.or.kr/magazin/173/html/sub2.html)",
+  "pattern_note": "상황(일교차)+숫자 결과 훅과 번호 리스트4, 마무리 질문 유도 — 스레드 인기글 분석에서 확인된 '댓글 유도 질문 마무리' 패턴과 건강 쇼츠의 짧은 리스트형 구조를 적용",
+  "card": {
+    "title1": "일교차 심한 요즘",
+    "title2": "환절기 챙길 습관4",
+    "items": [
+      "실내 습도 **30~50%** 유지",
+      "외투 챙겨 일교차 대비",
+      "물 자주 마셔 점막 촉촉하게",
+      "외출 후 손발 깨끗이 씻기"
+    ]
+  },
+  "threads": {
+    "posts": [
+      "일교차 요즘 진짜 심하지 않아? 아침엔 으슬으슬한데 낮엔 덥고, 이러다 훅 감기 걸리기 딱 좋은 날씨거든.\n\n1. 실내 습도 30~50%로 맞추기 – 너무 건조하면 목이랑 피부가 제일 먼저 까칠해지더라\n2. 나갈 때 얇은 겉옷 챙기기 – 아침저녁 온도차 크니까 벗었다 입었다 하면 돼\n3. 물 자주 마시기 – 공기 건조하면 코랑 목 점막부터 마르니까 틈틈이 마셔야 해\n4. 밖에 다녀오면 손발 씻기 – 이 시기엔 피부 트러블도 잘 나거든\n\n국민건강보험공단 건강iN 자료 기준이야. 컨디션 계속 별로면 병원 가서 체크받아보고, 저장해두고 오늘부터 하나씩 해봐. 너는 요즘 뭐가 제일 힘들어?"
+    ]
+  },
+  "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3BBhxCCPUNC4W1gF9JkOzdYioOu/hf_20260917_210950_337e4883-9017-4da7-96ac-7c4c5aed329d.png",
+  "image_source": "Higgsfield AI 생성"
+}
