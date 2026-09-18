@@ -1,0 +1,23 @@
+{
+  "id": "temp",
+  "title": "밤에 잠 설칠 때 챙기는 저녁 습관 3가지",
+  "topic_type": "health",
+  "source_note": "서울아산병원 헬스에디터 '한밤중에도 찜통더위…열대야 속 꿀잠 자는 법' (취침 3시간 전 식사 마치기, 늦은 저녁 격한 운동 피하기, https://news.amc.seoul.kr/news/con/detail.do?cntId=9959); 질병관리청 국가건강정보포털 '음주' (알코올이 수면 뇌파를 변화시켜 깊은 잠을 방해, https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5297)",
+  "pattern_note": "저녁 시간대 공감형 훅(뒤척임)과 '술 마시면 오히려 잠 방해'라는 오해 뒤집기형 리스트 항목을 결합 — 의사·전문가형 쇼츠에서 확인된 '상식 뒤집기' 훅과 스레드 인기글의 질문형 엔딩 패턴 적용. 번호 리스트 3개로 간결하게 구성.",
+  "card": {
+    "title1": "밤에 잠이 안 올 때",
+    "title2": "숙면 습관 3가지",
+    "items": [
+      "취침 **3시간 전** 식사 마치기",
+      "저녁엔 격한 운동 피하기",
+      "잠들기 전 술은 피하기"
+    ]
+  },
+  "threads": {
+    "posts": [
+      "밤에 누워도 잠이 안 오고 자꾸 깰 때 있잖아. 낮보다 저녁 루틴을 먼저 봐야 해.\n\n1. 취침 3시간 전엔 식사 마치기 – 자기 직전까지 먹으면 속이 더부룩해서 잠을 방해해\n2. 저녁엔 격한 운동 피하기 – 몸이 흥분 상태로 남아서 오히려 잠이 안 와\n3. 잠 오라고 술 마시지 않기 – 빨리 잠들긴 해도 뇌파가 흐트러져서 깊이 못 자거든\n\n질병관리청·서울아산병원 자료 기준이야. 며칠째 계속 못 자면 병원 가보는 것도 방법이고, 오늘 밤은 이 세 개만 지켜봐. 너는 저녁에 뭐 때문에 잠 설쳐?"
+    ]
+  },
+  "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3BBhxCCPUNC4W1gF9JkOzdYioOu/hf_20260918_210824_34248eb3-530a-43c0-a66d-7fffe6715ea6.png",
+  "image_source": "Higgsfield AI 생성"
+}

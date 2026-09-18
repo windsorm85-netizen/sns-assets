@@ -1,0 +1,24 @@
+{
+  "id": "temp",
+  "title": "아침에 유독 피곤하다면 챙기는 습관 4가지",
+  "topic_type": "health",
+  "source_note": "서울아산병원 뉴스룸 '아침식사는 충분히 저녁식사는 적게' (https://news.amc.seoul.kr/news/con/detail.do?cntId=7621); 국민건강보험공단 건강상식노트 '상쾌한 아침을 여는 기상 스트레칭' (https://www.nhis.or.kr/static/alim/paper/oldpaper/202304/sub/section2_4.html); 서울대학교병원 건강칼럼 '아침 거르셨다면 건강간식 하세요' (https://webzine.snuh.org/PostView.jsp?b_idx=531&wzCateCode=h)",
+  "pattern_note": "의사·전문가형 습관 리스트('죽기 전 꼭 해야 할 습관 15', '치명적인 습관 10가지')처럼 대상+숫자 조합 제목과, choisnature류 스레드 건강글의 '저장하고 챙기세요' 마무리 패턴을 적용. 리스트는 번호 4개, 각 항목 뒤에 이유를 짧게 붙이는 구조로 구성.",
+  "card": {
+    "title1": "아침마다 피곤하다면",
+    "title2": "몸 깨우는 습관 4가지",
+    "items": [
+      "기상 후 가볍게 스트레칭",
+      "아침식사 거르지 않기",
+      "매일 비슷한 시간에 식사",
+      "저녁은 가볍게 먹기"
+    ]
+  },
+  "threads": {
+    "posts": [
+      "아침에 눈은 떴는데 한참 멍한 적 많지? 몸이 완전히 깨기까지 원래 시간이 좀 걸리는 거래.\n\n1. 일어나자마자 가볍게 스트레칭하기 – 심박수가 올라가면서 몸이 빨리 깨거든\n2. 아침 거르지 않기 – 소화효소랑 호르몬이 돌아야 몸이 제대로 시작돼\n3. 웬만하면 매일 비슷한 시간에 밥 먹기 – 불규칙하면 몸에 스트레스가 쌓인대\n4. 저녁은 가볍게, 아침은 든든하게 – 장수하는 사람들 습관이 다 그렇더라\n\n서울아산병원·국민건강보험공단 자료 기준이야. 저장해두고 내일 아침부터 하나씩 해봐. 너는 아침에 뭐부터 챙겨?"
+    ]
+  },
+  "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3BBhxCCPUNC4W1gF9JkOzdYioOu/hf_20260918_210824_baf1d3da-ba8a-4c9d-ac22-318ac1c35b6a.png",
+  "image_source": "Higgsfield AI 생성"
+}
