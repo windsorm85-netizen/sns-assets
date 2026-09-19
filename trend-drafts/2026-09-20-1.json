@@ -1,0 +1,24 @@
+{
+  "id": "temp",
+  "title": "아침에 목이 칼칼할 때 챙기는 습관 4가지",
+  "topic_type": "health",
+  "source_note": "질병관리청 국가건강정보포털 겨울철 한파대비 건강수칙(실내 적정습도 40~60% 권장) https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=2048",
+  "pattern_note": "스레드 바이럴 분석글에서 뽑은 '숫자+포인트 정리, 짧은 문단, 질문형 마무리' 패턴과 의사 습관 콘텐츠의 '숫자로 신뢰감 주는 제목' 패턴을 적용 — 공감형 질문 훅 + 4항목 리스트 + 저장 유도 마무리",
+  "card": {
+    "title1": "환절기 목이 칼칼할 때",
+    "title2": "편해지는 습관 4가지",
+    "items": [
+      "실내 습도 **40~60%** 맞추기",
+      "미지근한 물 자주 마시기",
+      "하루 2~3번 환기하기",
+      "외출 땐 목 보온하기"
+    ]
+  },
+  "threads": {
+    "posts": [
+      "아침에 일어나면 목이 칼칼하고 따가운 적 있지 않아?\n\n1. 실내 습도 40~60% 맞추기 — 너무 건조하면 목 점막이 마르거든\n2. 미지근한 물 자주 마시기 — 찬물보다 점막 자극이 덜해\n3. 하루 2~3번 환기하기 — 난방만 하면 공기가 더 텁텁해지더라\n4. 외출할 땐 목 보온하기 — 찬바람 닿으면 더 따가워져\n\n질병관리청 겨울철 건강수칙 기준이야\n\n저장해두고 오늘부터 하나씩 해봐. 그래도 계속 따가우면 병원도 한번 가봐!"
+    ]
+  },
+  "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3BBhxCCPUNC4W1gF9JkOzdYioOu/hf_20260919_210749_ecca420d-8c32-4d1f-afe5-0cf2d5040858.png",
+  "image_source": "Higgsfield AI 생성"
+}

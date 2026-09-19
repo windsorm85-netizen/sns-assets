@@ -1,0 +1,24 @@
+{
+  "id": "temp",
+  "title": "오래 앉아 있을 때 챙기는 목 스트레칭 4가지",
+  "topic_type": "health",
+  "source_note": "질병관리청 국가건강정보포털 일자목(거북목)증후군 https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5972 ; 대한민국 정책브리핑(국민건강보험 일산병원 자료) 스트레칭으로 예방하는 거북목증후군 https://www.korea.kr/news/healthView.do?newsId=148867027",
+  "pattern_note": "숫자 리스트+한 줄 이유 덧붙이기 구조와 공감형 질문 오프닝 패턴을 적용, 마무리에 실천 유도 문구 추가",
+  "card": {
+    "title1": "오래 앉아만 있을 때",
+    "title2": "목 풀어주는 법 4가지",
+    "items": [
+      "50분마다 5분 스트레칭",
+      "턱 몸쪽으로 당기기",
+      "목 옆으로 **10~15초** 당기기",
+      "등받이 기대 가슴 펴기"
+    ]
+  },
+  "threads": {
+    "posts": [
+      "오래 앉아있다 일어나면 목이 뻐근하지 않아?\n\n1. 50분마다 5분 스트레칭하기 — 한 자세로 오래 있으면 목 근육이 굳거든\n2. 턱을 몸쪽으로 당기기 — 목 뒤 근육이 늘어나면서 자세가 잡혀\n3. 목 옆으로 10~15초씩 당기기 — 양쪽 다 해줘야 균형 맞아\n4. 등받이에 기대 가슴 펴기 — 굽은 어깨가 펴지더라\n\n질병관리청·국민건강보험 자료 기준이야\n\n알람 맞춰두고 오늘 오후부터 해봐. 안 그래?"
+    ]
+  },
+  "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3BBhxCCPUNC4W1gF9JkOzdYioOu/hf_20260919_210750_acaa3294-ca50-481b-ad03-0932b2865dd0.png",
+  "image_source": "Higgsfield AI 생성"
+}

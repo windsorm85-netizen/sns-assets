@@ -1,0 +1,24 @@
+{
+  "id": "temp",
+  "title": "밤에 출출할 때 챙기는 습관 4가지",
+  "topic_type": "health",
+  "source_note": "미국 국립보건원(NIH) MedlinePlus, Healthy Sleep — 늦은 시간 과식·야식 피하고 취침 2~3시간 전 식사 마치기, 오후·저녁 카페인 피하기 권장 https://medlineplus.gov/healthysleep.html",
+  "pattern_note": "습관 리스트+왜(이유) 한 줄 덧붙이는 구조와 손해회피형 질문 훅, 저장 유도형 마무리를 반영",
+  "card": {
+    "title1": "밤에 출출할 때",
+    "title2": "속 편한 습관 4가지",
+    "items": [
+      "자기 **2~3시간 전** 식사끝내기",
+      "배고프면 가벼운 간식만",
+      "먹고 바로 눕지 않기",
+      "오후엔 커피 줄이기"
+    ]
+  },
+  "threads": {
+    "posts": [
+      "밤에 배고파서 냉장고 자꾸 열게 되지 않아?\n\n1. 취침 2~3시간 전에 식사 끝내기 — 늦게 먹으면 잠드는 데 더 오래 걸려\n2. 배고프면 가벼운 간식만 — 과식하면 속이 더부룩해질 수 있어\n3. 먹고 바로 눕지 않기 — 소화 안 끝난 채 누우면 속이 부글거려\n4. 오후엔 커피 줄이기 — 밤까지 각성 효과가 남더라\n\n미국 국립보건원 수면 건강정보 기준이야\n\n저장해두고 오늘 밤엔 가볍게 넘겨봐!"
+    ]
+  },
+  "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3BBhxCCPUNC4W1gF9JkOzdYioOu/hf_20260919_210752_c38bcc99-afa9-458c-ac78-8efa9e77c723.png",
+  "image_source": "Higgsfield AI 생성"
+}
