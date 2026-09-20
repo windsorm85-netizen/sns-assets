@@ -1,0 +1,22 @@
+{
+  "id": "temp",
+  "title": "환절기 밤에 피부 당길 때 챙기는 습관 4가지",
+  "topic_type": "health",
+  "source_note": "서울아산병원 질환백과 - 피부건조증(https://www.amc.seoul.kr/asan/healthinfo/disease/diseaseDetail.do?contentId=32470); NHS - Moisturising Guidelines for dry skin(https://elht.nhs.uk/download_file/view/522)",
+  "pattern_note": "저녁 마무리 시간대 훅 + 숫자(분) 강조 리스트 + 저장·실천 유도 마무리 구조를 참고함 (건강 꿀팁 스레드 계정·1분 습관 콘텐츠 패턴)",
+  "card": {
+    "title1": "환절기 밤에 피부 당길 때",
+    "title2": "촉촉해지는 밤 습관4",
+    "items": [
+      "미지근한 물로 짧게 씻기",
+      "샤워 후 **3분** 안에 보습하기",
+      "로션보단 크림 바르기",
+      "실내 가습기로 습도 채우기"
+    ]
+  },
+  "threads": {
+    "posts": ["요즘 밤 되면 피부가 당기고 각질 일어나지 않아? 환절기엔 피부 수분이 훨씬 빨리 날아간대.\n\n1. 미지근한 물로 짧게 씻기 – 뜨거운 물은 피부 장벽을 더 상하게 해\n2. 샤워 후 3분 안에 보습하기 – 물기 남았을 때 발라야 수분이 갇혀\n3. 로션보단 크림 바르기 – 유분이 많아서 촉촉함이 오래 유지돼\n4. 실내 가습기로 습도 채우기 – 난방 켜면 공기가 훅 건조해지거든\n\n서울아산병원·영국 NHS 자료 기준이야.\n자기 전에 딱 3분만 투자해봐. 가려움 심하면 병원 가보는 것도 잊지 말고"]
+  },
+  "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3BBhxCCPUNC4W1gF9JkOzdYioOu/hf_20260920_210823_72dcc244-976b-4d9c-8fce-f4442c7c3d42.png",
+  "image_source": "Higgsfield AI 생성"
+}

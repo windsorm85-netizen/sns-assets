@@ -1,0 +1,22 @@
+{
+  "id": "temp",
+  "title": "환절기 눈 뻑뻑할 때 챙기는 습관 4가지",
+  "topic_type": "health",
+  "source_note": "질병관리청 국가건강정보포털 안구건조증(https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6306); 대한민국 정책브리핑 안구건조증 예방수칙(https://www.korea.kr/news/healthView.do?newsId=148788823)",
+  "pattern_note": "상황 공감형 훅(뻑뻑함) + 번호 리스트 + 숫자 강조 TOP형 제목 + 저장 유도 마무리 구조를 참고함 (스레드 건강 인기 계정·인기글 100개 분석 패턴)",
+  "card": {
+    "title1": "환절기 눈이 뻑뻑할 때",
+    "title2": "눈 편해지는 습관4",
+    "items": [
+      "하루 **3번** 이상 환기하기",
+      "히터·선풍기 바람 피하기",
+      "근거리 작업 줄이기",
+      "규칙적인 수면·운동 챙기기"
+    ]
+  },
+  "threads": {
+    "posts": ["환절기 되니까 눈이 뻑뻑하고 자꾸 비비게 되지 않아? 건조한 공기 때문에 눈물층이 빨리 마르는 거더라.\n\n1. 하루 3번 이상 환기하기 – 밀폐된 실내 공기가 눈을 더 건조하게 만들어\n2. 히터·선풍기 바람 얼굴에 안 쐬기 – 바람이 눈물을 순식간에 증발시켜\n3. 근거리 작업 줄이기 – 오래 집중하면 깜빡임 횟수가 확 줄어\n4. 규칙적인 수면·운동 챙기기 – 컨디션이 눈 건강이랑도 연결되더라\n\n질병관리청 국가건강정보포털 자료 기준이야.\n저장해두고 이따 환기부터 한번 해봐. 뻑뻑함 계속되면 병원 가보는 것도 잊지 말고"]
+  },
+  "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3BBhxCCPUNC4W1gF9JkOzdYioOu/hf_20260920_210820_d4d38c96-2425-4c52-bcb9-3d3c782075fd.png",
+  "image_source": "Higgsfield AI 생성"
+}

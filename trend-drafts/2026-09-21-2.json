@@ -1,0 +1,22 @@
+{
+  "id": "temp",
+  "title": "손목 저릿할 때 챙기는 오후 습관 4가지",
+  "topic_type": "health",
+  "source_note": "국민건강보험공단 웹진 - 손목·발목 지그시 풀기(https://www.nhis.or.kr/static/alim/paper/oldpaper/202408/sub/section2_4.html); Mayo Clinic - Carpal tunnel exercises(https://www.mayoclinic.org/diseases-conditions/carpal-tunnel-syndrome/expert-answers/carpal-tunnel-exercises/faq-20058125)",
+  "pattern_note": "사무직 대상 오후 시간대 훅 + 주기(분 단위) 숫자 강조 리스트 + 실천 유도 마무리 구조를 참고함 (1분 건강습관·직장인 스트레칭 콘텐츠 패턴)",
+  "card": {
+    "title1": "손목이 자주 저릿할 때",
+    "title2": "손목 편해지는 습관4",
+    "items": [
+      "손목 일자로 유지하기",
+      "**30분**마다 손목 돌리기",
+      "손목 아래 받침대 놓기",
+      "주먹 쥐었다 펴기 반복"
+    ]
+  },
+  "threads": {
+    "posts": ["컴퓨터 좀 오래 하면 손목이 저릿저릿하지 않아? 손목은 관절 중에 많이 움직이는데 그만큼 혹사당하기 쉽대.\n\n1. 손목 일자로 유지하기 – 꺾인 채로 오래 있으면 압박이 커져\n2. 30분마다 손목 돌리기 – 굳기 전에 자주 풀어줘야 해\n3. 손목 아래 받침대 놓기 – 딱딱한 책상에 눌리는 걸 막아줘\n4. 주먹 쥐었다 펴기 반복 – 손가락 순환에도 도움 된대\n\n국민건강보험공단·메이요클리닉 자료 기준이야.\n지금 바로 한 번 돌려보고 저릿함 계속되면 병원 가보는 것도 방법이야"]
+  },
+  "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3BBhxCCPUNC4W1gF9JkOzdYioOu/hf_20260920_210822_ba7b3545-8ca8-4456-939f-9c90ad4da078.png",
+  "image_source": "Higgsfield AI 생성"
+}
