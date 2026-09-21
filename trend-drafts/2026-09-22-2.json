@@ -1,0 +1,23 @@
+{
+  "id": "temp",
+  "title": "환절기 콧물·재채기 날 때 챙기는 습관 4가지",
+  "topic_type": "health",
+  "source_note": "질병관리청 국가건강정보포털 만성비염(https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5703); 서울특별시 미디어허브 환절기 알레르기 비염 예방수칙(https://mediahub.seoul.go.kr/archives/2015817)",
+  "pattern_note": "상황 공감형 훅(콧물·재채기) + 번호 리스트 + 습도 수치 강조 + 저장 유도 마무리 구조 참고 (스레드·릴스 건강 인기글 분석)",
+  "card": {
+    "title1": "환절기 콧물 날 때",
+    "title2": "비염 줄이는 습관4",
+    "items": [
+      "실내 습도 **50%** 유지",
+      "외출 후 손·얼굴 씻기",
+      "침구류 자주 세탁하기",
+      "미세먼지 심한 날 마스크",
+      "방향제·흡연 피하기"
+    ]
+  },
+  "threads": {
+    "posts": ["환절기 되면 콧물 훌쩍이고 재채기 연달아 나오지 않아? 알레르기 비염 증상이 딱 이맘때 심해진다더라.\n\n1. 실내 습도 50% 유지 – 코 점막이 이 습도에서 제일 편안하대\n2. 외출 후 손·얼굴 씻기 – 꽃가루·먼지를 바로 씻어내야 덜해\n3. 침구류 자주 세탁하기 – 진드기·먼지가 코를 계속 자극하거든\n4. 미세먼지 심한 날 마스크 – 원인 물질 자체를 덜 마셔야지\n5. 방향제·흡연 피하기 – 자극적인 냄새가 증상을 더 키운다더라\n\n질병관리청 국가건강정보포털 자료 기준이야.\n저장해두고 오늘부터 가습기부터 틀어봐. 콧물·재채기 계속되면 병원 가보는 것도 잊지 말고"]
+  },
+  "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3BBhxCCPUNC4W1gF9JkOzdYioOu/hf_20260921_210706_656b8f0d-0a64-4d99-b771-dfb267cde4f8.png",
+  "image_source": "Higgsfield AI 생성"
+}

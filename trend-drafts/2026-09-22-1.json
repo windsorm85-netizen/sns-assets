@@ -1,0 +1,23 @@
+{
+  "id": "temp",
+  "title": "아침에 어지러울 때 챙기는 습관 4가지",
+  "topic_type": "health",
+  "source_note": "질병관리청 국가건강정보포털 저혈압(https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5259); 분당서울대학교병원 기립성 저혈압 원인·예방(https://www.snubh.org/service/info/com/view.do?BNO=458&Board_ID=B004&RNUM=1)",
+  "pattern_note": "상황 공감형 훅(핑 도는 어지러움) + 번호 리스트 + 숫자 강조 TOP형 제목 + 저장 유도 마무리 구조 참고 (스레드·릴스 건강 인기글 분석)",
+  "card": {
+    "title1": "아침에 어지러울 때",
+    "title2": "어지럼 줄이는 습관4",
+    "items": [
+      "누웠다 천천히 일어나기",
+      "일어선 직후 잠깐 멈추기",
+      "물 충분히 마시기",
+      "사우나·온탕 피하기",
+      "종아리 까치발 **10~20회**"
+    ]
+  },
+  "threads": {
+    "posts": ["아침에 일어날 때 핑 돌면서 어지러운 적 있지? 그거 기립성 저혈압일 수 있대, 누웠다가 갑자기 일어나서 혈압이 순간 못 따라가는 거더라.\n\n1. 누웠다 천천히 일어나기 – 급하게 일어나면 혈압이 못 따라와\n2. 일어선 직후 잠깐 멈추기 – 잠깐 서서 안정시켜야 덜 핑 돌아\n3. 물 충분히 마시기 – 수분 부족하면 혈압이 더 잘 떨어져\n4. 사우나·온탕 피하기 – 뜨거운 데서 혈관이 확 늘어나서 위험해\n5. 종아리 까치발 10~20회 – 근육이 펌프질하듯 혈액순환 도와줘\n\n국가건강정보포털·분당서울대병원 자료 기준이야.\n저장해두고 내일 아침부터 천천히 일어나봐. 어지럼 자주 반복되면 병원 가보는 것도 잊지 말고"]
+  },
+  "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3BBhxCCPUNC4W1gF9JkOzdYioOu/hf_20260921_210704_87e1309e-62a3-427e-bd08-cfebed1f0527.png",
+  "image_source": "Higgsfield AI 생성"
+}
