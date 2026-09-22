@@ -1,0 +1,22 @@
+{
+  "id": "temp",
+  "title": "아침에 손발 시릴 때 챙기는 습관 4가지",
+  "topic_type": "health",
+  "source_note": "서울아산병원 수족냉증(Coldness of hands and feet) (https://www.amc.seoul.kr/asan/healthinfo/disease/diseaseDetail.do?contentId=32089)",
+  "pattern_note": "상황 공감형 훅(손발 시림) + 번호 리스트(상황→행동→이유) + 저장 유도 마무리 구조 참고 (스레드·쇼츠 건강 인기글 분석)",
+  "card": {
+    "title1": "아침에 손발 시릴 때",
+    "title2": "몸 따뜻해지는 습관4",
+    "items": [
+      "몸 전체 따뜻하게 유지",
+      "조깅·걷기 꾸준히 하기",
+      "반신욕·족욕으로 순환",
+      "손발 마사지 자주 하기"
+    ]
+  },
+  "threads": {
+    "posts": ["아침에 이불 밖으로 손발 내밀면 유독 시린 사람 있지 않아? 그거 수족냉증일 수 있대, 혈관이 수축돼서 손발 같은 말초까지 피가 잘 안 도는 거더라.\n\n1. 몸 전체 따뜻하게 유지 – 손발만 감싸는 것보다 몸 전체가 따뜻해야 순환이 잘 돼\n2. 조깅·걷기 꾸준히 하기 – 운동이 혈액순환 자체를 좋아지게 만들어줘\n3. 반신욕·족욕으로 순환 – 아래부터 데워지면 수축됐던 혈관이 풀려\n4. 손발 마사지 자주 하기 – 문지르면 마찰열로 혈관이 자극돼서 도움돼\n\n서울아산병원 자료 기준이야.\n저장해두고 오늘 반신욕부터 해봐. 냉증 계속 심하면 병원 가보는 것도 잊지 말고"]
+  },
+  "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3BBhxCCPUNC4W1gF9JkOzdYioOu/hf_20260922_211720_629b3656-6ee2-4b72-b879-8ca53fa63c29.png",
+  "image_source": "Higgsfield AI 생성"
+}

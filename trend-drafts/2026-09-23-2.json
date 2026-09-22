@@ -1,0 +1,23 @@
+{
+  "id": "temp",
+  "title": "오후에 머리 지끈할 때 챙기는 습관 5가지",
+  "topic_type": "health",
+  "source_note": "Mayo Clinic, Tension-type headaches: Self-care measures for relief (https://www.mayoclinic.org/diseases-conditions/tension-headache/in-depth/headaches/art-20047631); 대한민국 정책브리핑, 7월 직장인 건강 실천법 (https://www.korea.kr/news/healthView.do?newsId=148945548)",
+  "pattern_note": "오후 컨디션 저하 공감형 훅 + 번호 리스트(원인→행동→이유) + 저장·답글 유도 마무리 구조 참고 (스레드·쇼츠 건강 인기글 분석)",
+  "card": {
+    "title1": "오후에 머리 지끈할 때",
+    "title2": "두통 줄이는 습관5",
+    "items": [
+      "아침 거르지 않기",
+      "물 충분히 마시기",
+      "가볍게 운동하기",
+      "카페인 조금씩 줄이기",
+      "바른 자세로 앉기"
+    ]
+  },
+  "threads": {
+    "posts": ["점심 먹고 나서 오후 되면 머리가 지끈지끈한 적 있지? 자세, 스트레스, 카페인, 수분부족 같은 게 다 두통 트리거래.\n\n1. 아침 거르지 않기 – 끼니 거르면 두통이 더 잘 생긴다더라\n2. 물 충분히 마시기 – 수분 부족도 두통 유발 요인 중 하나야\n3. 가볍게 운동하기 – 스트레스 풀리고 긴장성 두통이 줄어든대\n4. 카페인 조금씩 줄이기 – 갑자기 끊으면 금단 두통 생길 수 있어\n5. 바른 자세로 앉기 – 목 어깨 긴장이 두통으로 이어지기도 해\n\n메이요클리닉·정책브리핑 자료 기준이야.\n저장해두고 오후 되기 전에 물 한 잔부터 마셔봐. 두통 자주 반복되면 병원 가보는 것도 잊지 말고"]
+  },
+  "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3BBhxCCPUNC4W1gF9JkOzdYioOu/hf_20260922_211720_04f6f7b9-7a06-466f-90f7-888d908b8253.png",
+  "image_source": "Higgsfield AI 생성"
+}
